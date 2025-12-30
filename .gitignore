@@ -1,0 +1,5 @@
+#Add the .env file
+.env
+./src/task1/task1.ipynb
+./src/task2/task2.ipynb
+./src/task3/task3.ipynb
